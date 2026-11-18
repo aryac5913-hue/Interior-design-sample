@@ -1,0 +1,10 @@
+{
+  "description": "Explore an elite interior design studio’s projects, services, design process, and journal, and book a personalized consultation for luxury spaces.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
